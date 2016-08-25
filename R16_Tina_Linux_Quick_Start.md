@@ -18,7 +18,7 @@ $ repo start r16-v2.1.y --all
 ##R16 Tina Linux SDK V2.1版本编译
 ```
 $ source build/envsetup.sh
-$ lunch astar-parrot_tina
+$ lunch astar_parrot-tina
 $ make -j
 $ pack [-d]
 ```
