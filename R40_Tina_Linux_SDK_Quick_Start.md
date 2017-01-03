@@ -18,7 +18,7 @@ $ repo start r40-v1.y --all
 ##二、R16 Tina Linux SDK V2.1版本编译
 ```
 $ source build/envsetup.sh
-$ lunch astar_parrot-tina
+$ lunch azalea_m2ultra-tina
 $ make -j
 $ pack [-d]
 ```
