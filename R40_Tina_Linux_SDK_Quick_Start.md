@@ -15,7 +15,7 @@ $ repo init -u https://github.com/tinalinux/manifest -b r40-v1.y -m r40/v1.y.xml
 $ repo sync
 $ repo start r40-v1.y --all
 ```
-##二、R16 Tina Linux SDK V2.1版本编译
+##二、R40 Tina Linux SDK V1.0版本编译
 ```
 $ source build/envsetup.sh
 $ lunch azalea_m2ultra-tina
